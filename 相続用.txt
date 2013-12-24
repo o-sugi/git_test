@@ -1,0 +1,1 @@
+UPDATE  `profile`.`satellite_categories` SET  `record_status` =  '3' WHERE  `satellite_categories`.`satellite_category_id` IN (850051,850052,850053,850054,850055,850056)
