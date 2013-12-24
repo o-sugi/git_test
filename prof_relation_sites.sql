@@ -1,4 +1,4 @@
-INSERT INTO prof_relation_sites (`prof_relation_site_id`, `professional_id`, `relation_site_id`, `url`, `banner_img`, `target_blank_flg`, `created_datetime`) VALUES
+INSERT INTO prof_relation_sites (prof_relation_site_id, professional_id, relation_site_id, url, banner_img, target_blank_flg, created_datetime) VALUES
 (NULL,100368,1,'http://counselor.excite.co.jp/prof/791679/?ali=enfactory',NULL,1,NOW()),
 (NULL,100578,1,'http://counselor.excite.co.jp/prof/794548/?ali=enfactory',NULL,1,NOW()),
 (NULL,100475,1,'http://counselor.excite.co.jp/prof/789532/?ali=enfactory',NULL,1,NOW()),
